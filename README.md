@@ -6,7 +6,7 @@ and salary-performance relationships.
 
 ---
 
-## 📊 Dashboard – Key Insights
+## Dashboard – Key Insights
 
 ### Overview (Page 1)
 - Total Employees: 1470+
@@ -26,7 +26,7 @@ and salary-performance relationships.
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 - Power BI (Data Modeling, DAX, Visualizations)
 - Python (Pandas for Data Cleaning & Exporting)
 - Data Cleaning, EDA & KPI Calculation
@@ -34,14 +34,14 @@ and salary-performance relationships.
 
 ---
 
-## 🗂 Project Artifacts
+##  Project Artifacts
 - `cleaned_hr_data.csv` – cleaned dataset
 - `hr_analysis.py` – Python preprocessing
 - `HR_Analytics_Dashboard.pbix` – Power BI dashboard file
 
 ---
 
-## 🚀 Business Value
+##  Business Value
 This dashboard enables:
 - Better workforce planning
 - Identification of high-risk attrition groups
